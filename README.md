@@ -1,1 +1,1 @@
-# f2_miniproject
+# Industrial Tool Sharing Platform
